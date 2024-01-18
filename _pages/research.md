@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "R"
 permalink: /publications/
 author_profile: true
 ---

@@ -18,3 +18,4 @@ redirect_from:
 * "What are the welfare effects of removing single-family zoning? Evidence from Oregon."
 * "Examining the impacts of affordable housing legislation: Evidence from Massachusetts Chapter 40B." With [Aja
 Kennedy](https://ajakennedy.com/).
+* "Sewers and slums in developing world cities." With [Sean McCulloch](https://www.seanmcculloch.com) and [Matthew Turner](https://matthewturner.org)

@@ -18,5 +18,5 @@ redirect_from:
 <hr>
 
 ## Works-in-Progress
-* "What are the welfare effects of removing single-family zoning? Evidence from Oregon."
+* "Disentangling the externality and supply effects of removing single-family zoning: Evidence from Oregon."
 * "The builder's remedy and municipal behavior: Evidence from Massachusetts Chapter 40B." With [Aja Kennedy](https://ajakennedy.com/).

@@ -13,7 +13,7 @@ My research covers topics in the economics of education and urban economics.
 My active projects are:
 
 - leveraging text analysis methods to generate novel measures for evaluating racial or gender bias in standardized reading tests
-- examining the effects of land use regulations on both market-rate and subsidized housing in the US
+- examining the effects of zoning regulations on both market-rate and subsidized housing in the US
 - identifying the role of sewer infrastructure in explaining urbanization across developing countries
 
 I am affiliated with the [Population Studies and Training Center](https://www.brown.edu/academics/population-studies/) and [Spatial Structures in the Social Sciences (S4)](https://www.brown.edu/academics/spatial-structures-in-social-sciences/) at Brown University. 

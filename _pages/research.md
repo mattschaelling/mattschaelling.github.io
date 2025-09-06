@@ -19,4 +19,5 @@ redirect_from:
 
 ## Works-in-Progress
 * "Disentangling the externality and supply effects of removing single-family zoning: Evidence from Oregon."
+  * *Abstract:* Interpreting price changes from a large-scale change in zoning laws regulating density faces a core challenge: distinguishing externalities from supply effects. Relaxing regulations to allow increased housing supply must result in a decrease in prices. However, changing density may have an external effect, which may be positive or negative depending on preferences of local homeowners. Distinguishing between the two is essential to understanding the welfare effect. I develop micro-foundations that allow me to leverage a statewide zoning reform in Oregon to identify both supply and external effects in a common policy setting.
 * "The builder's remedy and municipal behavior: Evidence from Massachusetts Chapter 40B." With [Aja Kennedy](https://ajakennedy.com/).

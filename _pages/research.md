@@ -15,14 +15,12 @@ redirect_from:
 
 <hr>
 
-## Working Papers
+## Works-in-Progress
 
 * [**"Sewers and Urbanization in the Developing World."**](https://www.nber.org/papers/w33597) With [Sean McCulloch](https://www.seanmcculloch.com), [Matthew Turner](https://matthewturner.org), and [Toru Kitagawa](https://sites.google.com/brown.edu/torukitagawa). NBER Working Paper #33597.
   * *Abstract:* We investigate the effects of sewer access on neighborhood characteristics in developing world cities. Because it is more difficult to move sewage uphill than downhill, otherwise similar neighborhoods on opposite sides of drainage basin divides may face different costs of sewer access. We exploit this intuition to identify the effect of sewer access by comparing outcomes for neighborhoods on opposite sides of drainage basin divides. We estimate the effect of sewer access on census tract population density, literacy, and income for Brazil, Colombia, South Africa, Jordan, and Tanzania. On average, sewer access has a large effect on population density and almost none on demographics. These estimates imply that sewer networks are often as important for the economic geography of cities as transportation networks.
 
-<hr>
+* **"What are the welfare effects of removing single-family zoning? Evidence from Oregon."** (Draft available upon request.)
+  * *Abstract:* Interpreting price changes from large-scale reforms of zoning laws faces a core challenge: distinguishing externalities of density from supply effects. Purely increasing housing supply via relaxing regulations must result in a decrease in prices. However, increasing density may have an external effect, which may be positive or negative depending on preferences of local homeowners. Distinguishing between the two is essential to understanding the welfare effect. I develop micro-foundations that allow me to leverage a statewide zoning reform in Oregon to identify both supply and external effects in a common policy setting.
 
-## Works-in-Progress
-* "What are the welfare effects of removing single-family zoning? Evidence from Oregon."
-  * *Abstract:* Interpreting price changes from a large-scale change in zoning laws regulating density faces a core challenge: distinguishing externalities from supply effects. Relaxing regulations to allow increased housing supply must result in a decrease in prices. However, changing density may have an external effect, which may be positive or negative depending on preferences of local homeowners. Distinguishing between the two is essential to understanding the welfare effect. I develop micro-foundations that allow me to leverage a statewide zoning reform in Oregon to identify both supply and external effects in a common policy setting.
-* "The builder's remedy and municipal behavior: Evidence from Massachusetts Chapter 40B." With [Aja Kennedy](https://ajakennedy.com/).
+* **"The builder's remedy and municipal behavior: Evidence from Massachusetts Chapter 40B."** With [Aja Kennedy](https://ajakennedy.com/).

@@ -20,4 +20,4 @@ I will join the Department of Finance at [Brigham Young University's Marriott Sc
 I am a recent graduate of the [Department of Economics at Brown University](https://economics.brown.edu). I am affiliated with the [Population Studies and Training Center](https://www.brown.edu/academics/population-studies/) and [Spatial Structures in the Social Sciences (S4)](https://www.brown.edu/academics/spatial-structures-in-social-sciences/) at Brown University. 
 Prior to graduate school, I was a predoctoral research fellow at [Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu), mentored by [Susan Athey](https://gsb-faculty.stanford.edu/susan-athey/), and completed a B.S. in economics and applied & computational mathematics at [Brigham Young University](https://economics.byu.edu).
 
-**Contact:** matthew_schaelling@brown.edu
+**Contact:** matthew.schaelling@byu.edu

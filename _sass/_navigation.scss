@@ -189,6 +189,14 @@
     }
   }
 
+  .masthead__menu-item:not(.masthead__menu-item--lg) a {
+    font-family: $global-font-family;
+    font-size: $type-size-6;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
   button {
     position: absolute;
     height: 100%;
@@ -257,7 +265,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    background: $background-color;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {

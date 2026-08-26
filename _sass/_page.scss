@@ -63,6 +63,21 @@
     border-bottom: 2px solid $accent-color;
   }
 
+  h3 {
+    font-size: $type-size-4;
+    font-weight: 600;
+  }
+
+  h3 + p {
+    margin-top: -0.3em;
+    font-size: $type-size-6;
+    color: $light-gray;
+  }
+
+  blockquote {
+    font-style: normal;
+  }
+
   p, li, dl {
     font-size: 1em;
   }

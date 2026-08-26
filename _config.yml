@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matt Schaelling"
 title_separator          : "-"
 name                     : &name "Matt Schaelling"
-description              : &description "PhD Candidate at Brown University"
+description              : &description "Applied microeconomist studying the economics of education and urban economics"
 url                      : https://mattschaelling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattschaelling/mattschaelling.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matt Schaelling"
   avatar           : "schaelling_headshot.jpg"
-  bio              : "PhD Candidate at Brown University"
-  location         : "Providence, RI, USA"
+  bio              :
+  location         : "Provo, UT, USA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "matthew_schaelling@brown.edu"
+  email            :  "matthew.schaelling@byu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -49,5 +49,12 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+
+    a {
+      font-family: $header-font-family;
+      font-style: italic;
+      font-weight: 600;
+      font-size: $type-size-3;
+    }
   }
 }
